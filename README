@@ -4,5 +4,5 @@ access.
 == Features ==
 
 * Monitors WAN traffic rate, daily, and monthly upload/download and totals.
-* Monitors Wifi noise level, power level, rate,
-* Monitors per interface statistics
+* Monitors Wifi noise level, power level, and rate.
+* Monitors per interface statistics.
