@@ -1,5 +1,4 @@
-This ZenPack provided monitoring support for DD-WRT router software, leveraging SSH for performance data
-access.
+This ZenPack provided monitoring support for DD-WRT router software leveraging SSH for performance data.
 
 == Features ==
 
