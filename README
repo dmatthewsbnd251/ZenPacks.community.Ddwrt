@@ -3,6 +3,6 @@ This ZenPack provides monitoring support for DD-WRT router software leveraging S
 == Features ==
 
 * Monitors WAN traffic upload and download rate.
-* Monitors WAN traffic upload and download daily and montly totals
+* Monitors WAN traffic upload and download daily and monthly totals
 * Monitors Wifi noise level, power level, and connection rate.
 * Monitors per interface statistics.
