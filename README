@@ -1,8 +1,9 @@
-This ZenPack provided monitoring support for DD-WRT flashed routers, leveraging SSH for performance data
+This ZenPack provided monitoring support for DD-WRT router software, leveraging SSH for performance data
 access.
 
 == Features ==
 
-* Monitors WAN traffic rate, daily, and monthly upload/download and totals.
-* Monitors Wifi noise level, power level, and rate.
+* Monitors WAN traffic upload and download rate.
+* Monitors WAN traffic upload and download daily and montly totals
+* Monitors Wifi noise level, power level, and connection rate.
 * Monitors per interface statistics.
